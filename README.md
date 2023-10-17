@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garsdmitry
-- 👀 I’m interested in football
-- 🌱 I’m currently learning python
+- 👀 I’m interested in maths
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me db3666702@gmail.com
 
 <!---
