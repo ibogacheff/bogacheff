@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @garsdmitry
+- 👋 Hi, I’m @ibogacheff
 - 👀 I’m interested in maths
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me db3666702@gmail.com
